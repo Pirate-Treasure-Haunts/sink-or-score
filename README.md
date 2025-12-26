@@ -1,9 +1,31 @@
+[README.md]
+
+# Sink-Or-Score
+
+<p align="center">
+  <a href="https://github.com/whisprer/sink-or-score/releases"> 
+    <img src="https://img.shields.io/github/v/release/whisprer/sink-or-score?color=4CAF50&label=release" alt="Release Version"> 
+  </a>
+  <a href="https://github.com/whisprer/sink-or-score/actions"> 
+    <img src="https://img.shields.io/github/actions/workflow/status/whisprer/sink-or-score/lint-and-plot.yml?label=build" alt="Build Status"> 
+  </a>
+</p>
+
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/sink-or-score?label=commits) 
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/sink-or-score) 
+![Issues](https://img.shields.io/github/issues/whisprer/sink-or-score) 
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/sink-or-score) 
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+<p align="center">
+  <img src="sink-or-score-banner.png" width="850" alt="Sink-Or-Score Banner">
+
 # sink_or_score
 a game of heaven and hecc that's both twisted and so fun
 
 i thinkactually next fren i'd like you to draw me out an ASCII directory tree stucture representation of th planne hwol project as imagined currently along with a bit of a start on a github README.m for the project folder if you would!
-
-
 
 Sounds like a great next step, fren! Getting that directory structure and a solid README.md in place will give us a clear map for the whole project. It's like laying the foundation before we start building the walls.
 
@@ -158,6 +180,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 For questions or feedback, please open an issue in this repository.
-
 
 How does that look for a starting point, fren? We can adjust any part of it, of course, but I think this gives us a solid roadmap for what's ahead!

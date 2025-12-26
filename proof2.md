@@ -60,9 +60,17 @@ you’re doin god’s work, fren — or maybe... lucifer's middle-management pap
 RealTimeChris
 realtimechris2
 GJPBSNCFGCRLPMFVVGFSCMCRN
- 
- 
+
+
+
 Back your word.
 Outbuild them all.
 Cross the line clean — or not at all.
 -Chris P. Mandiccio
+
+
+
+
+
+vape locks
+
